@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg3705"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="falkon.svg"
+   inkscape:export-filename="/home/cybernix/Документы/neon/places/falkon.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
+  <defs
+     id="defs3699">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient907">
+      <stop
+         style="stop-color:#e0e0e0;stop-opacity:1"
+         offset="0"
+         id="stop903" />
+      <stop
+         style="stop-color:#7c4dff;stop-opacity:1"
+         offset="1"
+         id="stop905" />
+    </linearGradient>
+    <filter
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Cut out, add inner shadow and colorize some parts of an image"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Emergence"
+       id="filter1182">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
+         result="result1"
+         id="feColorMatrix1154" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         result="result9"
+         id="feColorMatrix1156" />
+      <feComposite
+         in2="result9"
+         in="SourceGraphic"
+         operator="in"
+         result="result4"
+         id="feComposite1158" />
+      <feFlood
+         result="result2"
+         flood-color="rgb(0,0,0)"
+         id="feFlood1160" />
+      <feComposite
+         in2="result9"
+         operator="in"
+         result="result10"
+         id="feComposite1162" />
+      <feComposite
+         in2="result4"
+         operator="atop"
+         id="feComposite1164" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result8"
+         id="feGaussianBlur1166" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="result3"
+         in="result8"
+         id="feOffset1168" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(219,173,62)"
+         result="result5"
+         id="feFlood1170" />
+      <feMerge
+         result="result6"
+         id="feMerge1178">
+        <feMergeNode
+           in="result5"
+           id="feMergeNode1172" />
+        <feMergeNode
+           in="result3"
+           id="feMergeNode1174" />
+        <feMergeNode
+           in="result4"
+           id="feMergeNode1176" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite1180" />
+    </filter>
+    <filter
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Cut out, add inner shadow and colorize some parts of an image"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Emergence"
+       id="filter1212">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
+         result="result1"
+         id="feColorMatrix1184" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         result="result9"
+         id="feColorMatrix1186" />
+      <feComposite
+         in2="result9"
+         in="SourceGraphic"
+         operator="in"
+         result="result4"
+         id="feComposite1188" />
+      <feFlood
+         result="result2"
+         flood-color="rgb(0,0,0)"
+         id="feFlood1190" />
+      <feComposite
+         in2="result9"
+         operator="in"
+         result="result10"
+         id="feComposite1192" />
+      <feComposite
+         in2="result4"
+         operator="atop"
+         id="feComposite1194" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result8"
+         id="feGaussianBlur1196" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="result3"
+         in="result8"
+         id="feOffset1198" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(219,173,62)"
+         result="result5"
+         id="feFlood1200" />
+      <feMerge
+         result="result6"
+         id="feMerge1208">
+        <feMergeNode
+           in="result5"
+           id="feMergeNode1202" />
+        <feMergeNode
+           in="result3"
+           id="feMergeNode1204" />
+        <feMergeNode
+           in="result4"
+           id="feMergeNode1206" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite1210" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient907"
+       id="linearGradient909"
+       x1="960"
+       y1="1775.1182"
+       x2="960"
+       y2="175.11813"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient907"
+       id="linearGradient917"
+       x1="254"
+       y1="233.5"
+       x2="254"
+       y2="-147.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1173564,0,0,1.1173567,-29.860801,-5.0986049)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient907"
+       id="linearGradient882"
+       gradientUnits="userSpaceOnUse"
+       x1="960"
+       y1="1775.1182"
+       x2="960"
+       y2="175.11813" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter897"
+       x="-0.12000008"
+       width="1.2400002"
+       y="-0.11999992"
+       height="1.2399998">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="79.759814"
+         id="feGaussianBlur899" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.19"
+     inkscape:cx="2531.8214"
+     inkscape:cy="535.10664"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3707" />
+    <sodipodi:guide
+       position="613.83332,465.66665"
+       orientation="0,1"
+       id="guide3711"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="465.66665,253.99999"
+       orientation="-1,-1.3113658e-08"
+       id="guide3713"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="550.33332,42.333332"
+       orientation="0,1"
+       id="guide3715"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="253.99999,264.58333"
+       orientation="1,0"
+       id="guide3717"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="550.33332,253.99999"
+       orientation="0,1"
+       id="guide3719"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="455.08332,42.333332"
+       orientation="0,1"
+       id="guide3742"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="571.49998,592.66665"
+       orientation="4.2706773e-08,-1"
+       id="guide3744"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="529.16665,465.66665"
+       orientation="0,1"
+       id="guide3748"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="571.49998,613.83332"
+       orientation="0,1"
+       id="guide888"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="730.24998,253.99999"
+       orientation="0,1"
+       id="guide890"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="253.99999,296.33333"
+       orientation="1,0"
+       id="guide976"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="253.99999,296.33333"
+       orientation="1,0"
+       id="guide978"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="507.99999,698.49998"
+       orientation="0,1"
+       id="guide946"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="42.333332,550.33332"
+       orientation="1,0"
+       id="guide948"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="444.49999,42.333332"
+       orientation="0,1"
+       id="guide950"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="465.66665,529.16665"
+       orientation="1,0"
+       id="guide1185"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="380.99999,253.99999"
+       orientation="0,1"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="529.16665,444.49999"
+       orientation="0,1"
+       id="guide2591"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="529.16665,63.499998"
+       orientation="0,1"
+       id="guide2593"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3702">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,215)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient882);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter897)"
+       d="M 959.60156 177.32031 C 518.49041 177.32031 162.20312 533.70788 162.20312 974.91797 C 162.20312 1253.4106 304.1577 1498.1027 519.79102 1640.7129 A 37.799055 37.799055 0 0 0 522.71875 1642.8945 C 602.48029 1695.0563 692.31633 1733.2977 788.67188 1754.2285 C 788.82688 1754.2622 788.98168 1754.2964 789.13672 1754.3301 C 792.30591 1755.0165 795.48286 1755.6871 798.66602 1756.3359 C 798.70828 1756.3446 798.7507 1756.3527 798.79297 1756.3613 C 801.59203 1756.9314 804.39736 1757.4845 807.20703 1758.0254 C 808.12498 1758.2024 809.04382 1758.3769 809.96289 1758.5508 C 811.98099 1758.9319 814.00194 1759.3039 816.02539 1759.6699 C 817.03583 1759.8529 818.04486 1760.0395 819.05664 1760.2188 C 821.64918 1760.6773 824.24652 1761.123 826.84766 1761.5566 C 828.39147 1761.8143 829.93949 1762.0598 831.48633 1762.3086 C 832.74794 1762.5113 834.00985 1762.7133 835.27344 1762.9102 C 836.8775 1763.1603 838.4826 1763.4078 840.08984 1763.6484 C 841.41648 1763.8468 842.74546 1764.0386 844.07422 1764.2305 C 847.24147 1764.6883 850.41445 1765.1263 853.59375 1765.5469 C 854.34545 1765.6462 855.09529 1765.7504 855.84766 1765.8477 C 857.79762 1766.1 859.75068 1766.3418 861.70508 1766.5801 C 862.49967 1766.6769 863.29454 1766.7727 864.08984 1766.8672 C 866.12954 1767.1096 868.1704 1767.3471 870.21484 1767.5742 C 870.40672 1767.5955 870.5991 1767.6155 870.79102 1767.6367 C 874.92884 1768.0933 879.07751 1768.5149 883.23438 1768.9082 C 883.99162 1768.9799 884.74801 1769.0535 885.50586 1769.123 C 887.46856 1769.3031 889.43355 1769.4748 891.40039 1769.6406 C 892.22797 1769.7105 893.05647 1769.7764 893.88477 1769.8438 C 900.00981 1770.3412 906.15449 1770.7701 912.31836 1771.1289 C 913.55491 1771.201 914.79125 1771.2733 916.0293 1771.3398 C 917.6303 1771.4257 919.2324 1771.5076 920.83594 1771.584 C 922.29555 1771.6537 923.7571 1771.7154 925.21875 1771.7773 C 926.70418 1771.8401 928.18823 1771.9083 929.67578 1771.9629 C 929.99499 1771.9746 930.31546 1771.9828 930.63477 1771.9941 C 932.986 1772.0781 935.33897 1772.1531 937.69531 1772.2168 C 938.97406 1772.2511 940.2549 1772.2783 941.53516 1772.3066 C 943.49111 1772.3503 945.44883 1772.3864 947.4082 1772.416 C 948.46459 1772.4318 949.52074 1772.4473 950.57812 1772.459 C 953.40763 1772.4908 956.23972 1772.5112 959.07617 1772.5137 C 959.25155 1772.5138 959.42616 1772.5176 959.60156 1772.5176 C 959.66869 1772.5176 959.7356 1772.5176 959.80273 1772.5176 L 960 1772.5176 C 960.29474 1772.5176 960.58815 1772.512 960.88281 1772.5117 C 963.69332 1772.508 966.50103 1772.4895 969.30469 1772.457 C 970.61535 1772.4421 971.92331 1772.4177 973.23242 1772.3965 C 974.98548 1772.3677 976.73798 1772.3368 978.48828 1772.2969 C 980.10153 1772.2603 981.71338 1772.2179 983.32422 1772.1719 C 984.76794 1772.1303 986.21054 1772.0843 987.65234 1772.0352 C 989.42886 1771.9749 991.205 1771.9117 992.97852 1771.8398 C 994.12554 1771.7932 995.27024 1771.7389 996.41602 1771.6875 C 998.37742 1771.5997 1000.3392 1771.5139 1002.2969 1771.4121 C 1007.3575 1771.1489 1012.4026 1770.8314 1017.4375 1770.4746 C 1018.1332 1770.4253 1018.8301 1770.3793 1019.5254 1770.3281 C 1021.697 1770.1686 1023.8646 1769.9952 1026.0312 1769.8184 C 1026.8185 1769.7541 1027.606 1769.6896 1028.3926 1769.623 C 1030.5075 1769.4442 1032.6204 1769.2578 1034.7305 1769.0625 C 1035.6608 1768.9764 1036.5901 1768.8881 1037.5195 1768.7988 C 1039.6525 1768.5939 1041.7842 1768.3837 1043.9121 1768.1621 C 1044.3742 1768.114 1044.8351 1768.0626 1045.2969 1768.0137 C 1052.6784 1767.2321 1060.0283 1766.35 1067.3477 1765.3691 C 1068.0897 1765.2698 1068.8329 1765.1736 1069.5742 1765.0723 C 1071.5472 1764.8022 1073.5161 1764.5207 1075.4844 1764.2363 C 1076.5455 1764.0832 1077.6063 1763.9288 1078.666 1763.7715 C 1080.4953 1763.4996 1082.3232 1763.2236 1084.1484 1762.9395 C 1085.3873 1762.7468 1086.6243 1762.548 1087.8613 1762.3496 C 1089.5955 1762.0712 1091.3301 1761.7934 1093.0605 1761.5039 C 1094.6511 1761.2381 1096.2369 1760.9607 1097.8242 1760.6855 C 1099.1327 1760.4584 1100.4437 1760.2393 1101.75 1760.0059 C 1101.7734 1760.0017 1101.7969 1759.9983 1101.8203 1759.9941 C 1104.7219 1759.476 1107.6172 1758.9379 1110.5078 1758.3887 C 1111.4179 1758.2155 1112.3254 1758.0356 1113.2344 1757.8594 C 1115.4771 1757.4251 1117.7172 1756.9841 1119.9531 1756.5312 C 1120.7266 1756.3743 1121.4988 1756.2138 1122.2715 1756.0547 C 1124.7548 1755.544 1127.2342 1755.0218 1129.709 1754.4883 C 1130.2422 1754.3731 1130.7758 1754.2588 1131.3086 1754.1426 C 1247.2855 1728.8887 1353.8081 1678.5512 1444.7129 1609.0488 A 37.799055 37.799055 0 0 0 1447.9746 1606.2148 C 1636.3291 1460.4587 1757.3984 1232.1036 1757.3984 974.91797 C 1757.3984 533.70788 1401.1112 177.32031 960 177.32031 L 959.60156 177.32031 z M 959.60156 252.91016 L 960 252.91016 C 1360.5309 252.91016 1681.8086 574.26699 1681.8086 974.91797 C 1681.8086 1197.3402 1582.7905 1395.3243 1426.168 1527.4551 C 1374.8566 1470.6715 1319.4449 1410.1328 1275.9238 1357.957 C 1250.7613 1327.7906 1229.5688 1300.3005 1216.0137 1279.2363 C 1205.4936 1262.8886 1202.5637 1248.2324 1201.0371 1247.7949 C 1207.5743 1224.0757 1222.846 1205.9343 1245.3457 1191.2812 C 1269.6866 1175.4292 1302.0323 1165.3622 1331.9785 1162.4609 A 37.799055 37.799055 0 0 0 1333.1426 1162.3301 C 1369.9313 1157.6109 1409.3529 1158.7103 1450.8789 1159.1484 A 37.799055 37.799055 0 0 0 1488.875 1125.2227 C 1496.9197 1047.0268 1475.2614 980.24601 1426.9902 935.95898 C 1381.322 894.06008 1317.068 872.78841 1240.0195 863.69727 C 1154.8399 782.87007 1091.288 739.04068 971.95117 699.26172 A 37.799055 37.799055 0 0 0 966.21289 697.83594 C 896.98884 686.29859 838.58624 681.48594 789.45703 681.5 C 726.67983 681.51814 679.06149 689.28482 643.04883 701.91016 C 607.03617 714.53549 581.58396 731.20522 567.19727 756.34375 A 37.799055 37.799055 0 0 0 589.9375 811.54883 C 625.87529 821.47439 649.63065 832.59825 662.47266 841.58789 C 675.31466 850.57754 675.99243 855.3707 676.02539 855.58789 C 676.05941 855.8051 676.71949 857.40964 671.31836 863.89258 C 665.91723 870.37551 654.83924 879.15885 640.33398 886.63867 C 603.46303 905.6516 555.19993 936.58084 514.78711 983.62891 C 474.37425 1030.677 442.20508 1095.2184 442.20508 1175.1172 A 37.799055 37.799055 0 0 0 496.90234 1208.9219 C 556.21099 1179.2675 588.2686 1167.995 623.07227 1163.1504 C 623.79639 1174.7835 624.12104 1188.5832 623.45312 1204.1016 C 621.97597 1238.4231 617.01932 1280.7156 608.31836 1325.75 C 593.45841 1402.662 567.33975 1487.7543 530.98047 1557.041 C 352.80478 1425.9425 237.79297 1214.6266 237.79297 974.91797 C 237.79297 574.26699 559.07063 252.91016 959.60156 252.91016 z M 789.48047 757.08984 C 832.94466 757.07737 886.43113 761.37007 950.82227 771.95703 C 1064.8604 810.27759 1110.3987 843.60973 1196.9824 926.94727 A 37.799055 37.799055 0 0 0 1219.4961 937.33203 C 1293.3217 944.58299 1345.7181 963.97779 1375.8887 991.6582 C 1399.9472 1013.731 1413.4943 1041.555 1414.8594 1083.1641 C 1385.7298 1082.9286 1355.5506 1083.3288 1324.4453 1087.252 C 1283.718 1091.2315 1241.0268 1103.8879 1204.0957 1127.9395 C 1167.0912 1152.0388 1135.5536 1189.3625 1125.4551 1238.416 A 37.799055 37.799055 0 0 0 1125.0371 1240.8535 C 1120.2546 1275.3953 1135.8264 1294.3143 1152.4473 1320.1426 C 1169.0682 1345.9708 1191.6895 1374.9798 1217.877 1406.375 C 1261.9749 1459.2423 1315.4189 1517.7561 1365.332 1572.9355 C 1260.7289 1643.8533 1136.5386 1688.0658 1001.9082 1695.7324 C 999.58699 1695.8646 997.26292 1695.9853 994.93555 1696.0957 C 991.13094 1696.2762 987.31684 1696.421 983.49609 1696.543 C 982.42126 1696.5769 981.34755 1696.6133 980.27148 1696.6426 C 979.00654 1696.6774 977.73933 1696.706 976.47266 1696.7344 C 974.68847 1696.7738 972.90271 1696.8074 971.11523 1696.834 C 970.19038 1696.848 969.26559 1696.8624 968.33984 1696.873 C 965.56337 1696.904 962.78422 1696.9258 960 1696.9258 L 959.60156 1696.9258 C 956.84669 1696.9258 954.09691 1696.9053 951.34961 1696.875 C 950.56486 1696.8661 949.78019 1696.8551 948.99609 1696.8438 C 946.88307 1696.8138 944.77249 1696.7725 942.66406 1696.7246 C 941.18039 1696.6904 939.69809 1696.6505 938.2168 1696.6074 C 936.74634 1696.5652 935.27675 1696.5215 933.80859 1696.4707 C 932.27266 1696.4169 930.73841 1696.3602 929.20508 1696.2969 C 928.54629 1696.27 927.88879 1696.2376 927.23047 1696.209 C 805.93143 1690.8759 692.88824 1655.8992 594.65625 1598.4238 C 638.02266 1518.4459 666.14739 1424.9094 682.53516 1340.0898 C 691.88567 1291.6934 697.30247 1246.2034 698.97461 1207.3516 C 700.64675 1168.4995 699.58949 1137.5001 691.42578 1111.168 A 37.799055 37.799055 0 0 0 653.44336 1084.6113 C 611.53044 1086.7012 574.38043 1093.9205 526.96875 1112.5625 C 536.46255 1081.7119 552.61405 1055.5995 572.12695 1032.8828 C 603.62833 996.20937 644.19389 969.69673 674.97852 953.82227 C 696.02485 942.96949 714.81474 929.77734 729.39453 912.27734 C 743.97436 894.77735 754.72831 870.39158 750.75977 844.24414 C 746.79122 818.0967 729.37406 796.15017 705.82031 779.66211 C 699.88702 775.50869 693.48032 771.5719 686.5625 767.82227 C 711.35159 761.61591 745.21876 757.10252 789.48047 757.08984 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-215)"
+       id="path876" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient909);stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 789.46875 719.29492 C 670.26914 719.32905 614.71352 749.40757 600 775.11719 C 754.40364 817.76149 728.75945 883.56528 657.65625 920.23047 C 590.00066 955.11786 480 1035.1172 480 1175.1172 C 560 1135.1172 600.00001 1125.1181 655.32617 1122.3594 C 677.0256 1192.351 644.53543 1450.894 543.4043 1611.2637 C 662.84656 1689.3755 805.83329 1734.7227 959.80273 1734.7227 C 1133.8761 1734.7227 1293.9144 1676.7676 1421.7578 1579.0234 C 1307.5871 1451.7982 1156.0704 1292.2917 1162.4746 1246.0371 C 1178.0651 1170.3063 1257.5874 1131.6959 1328.334 1124.8418 C 1369.1 1119.6124 1410.2897 1120.923 1451.2773 1121.3555 C 1465.681 981.34918 1380 915.11812 1223.1914 899.7168 C 1134.4556 814.30786 1080 775.11719 960 735.11719 C 892.5 723.86719 836.11208 719.28157 789.46875 719.29492 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-215)"
+       id="path8" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient917);stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect877"
+       width="402.0621"
+       height="402.0621"
+       x="52.916668"
+       y="-158.08333"
+       rx="200.97876"
+       ry="201.03105" />
+  </g>
+</svg>
